@@ -1,4 +1,4 @@
-module github.com/dcu/closecheck
+module github.com/imtrak/closecheck
 
 go 1.25.0
 
